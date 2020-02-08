@@ -1,0 +1,12 @@
+mongod --dbpath "D:\OneDrive\Galaxy\Microservices\04 - Microservices\Microservice.Persistence\04.2\Data"
+
+mongo
+
+use BookstoreDb
+
+db.createCollection('Books')
+
+db.Books.insertMany([{'Name':'Design Patterns','Price':54.93,'Category':'Computers','Author':'Ralph Johnson'}, {'Name':'Clean Code','Price':43.15,'Category':'Computers','Author':'Robert C. Martin'}])
+
+db.Books.find({}).pretty()
+

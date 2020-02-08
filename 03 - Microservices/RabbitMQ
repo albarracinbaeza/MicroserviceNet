@@ -1,0 +1,10 @@
+https://www.rabbitmq.com/install-windows.html#installer
+https://www.erlang.org/downloads
+
+https://www.rabbitmq.com/install-windows-manual.html
+
+rabbitmq-plugins enable rabbitmq_management
+
+http://localhost:15672/
+guest
+guest
