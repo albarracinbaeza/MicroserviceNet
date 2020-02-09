@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Orden]
+(
+	OrdenId INT NOT NULL IDENTITY PRIMARY KEY,
+	Descripcion VARCHAR(250)
+)

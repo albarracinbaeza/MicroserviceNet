@@ -20,7 +20,7 @@ namespace Microservice.Docker.Api.Controllers
         public const int MAIL_PORT = 1025;
 
         [HttpPost]
-        public async Task EmailRandomNames(Range range, string email="test@fake.com"){
+        public async Task EmailRandomNames(Range range, string email="scorpius86@gmail.com"){
             var message = new MimeMessage();
             message.From.Add(new MailboxAddress("Generator", "generator@generate.com"));
             message.To.Add(new MailboxAddress("",email));

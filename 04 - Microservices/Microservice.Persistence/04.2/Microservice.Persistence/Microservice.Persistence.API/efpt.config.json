@@ -1,0 +1,34 @@
+﻿{
+   "ContextClassName": "MicroserviceEFCoreContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data\/Context",
+   "OutputPath": "Data\/Entities",
+   "ProjectRootNamespace": "Microservice.Persistence.API",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Orden]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[OrdenItem]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Producto]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

@@ -110,7 +110,7 @@ docker stop reverent_ganguly
 docker build --rm=false --no-cache -t test .
 (Crear un docker file de build)
 docker build -t aspnetcore/generator:build .
-docker run --rm -it -p 8085:80 -p 8086:443 aspnetcore/generator:build   (Si falla el restore verificar la tarjeta de red virtual debe ser asignada una tarjeta fisica que tenga acceso a internet) 
+docker run --rm -it -p 8095:80 -p 8096:443 aspnetcore/generator:build   (Si falla el restore verificar la tarjeta de red virtual debe ser asignada una tarjeta fisica que tenga acceso a internet) 
 https://localhost:8086/
 
 
