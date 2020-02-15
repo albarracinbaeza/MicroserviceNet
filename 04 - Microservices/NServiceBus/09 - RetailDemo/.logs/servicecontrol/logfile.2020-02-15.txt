@@ -1,0 +1,482 @@
+2020-02-15 12:27:47.2968|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 12:27:48.0798|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      0 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 12:27:49.2728|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 12:27:57.2978|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 12:28:05.5838|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:28:05.6908|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 12:28:06.0098|59|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 12:28:06.0418|20|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:28:06.1168|17|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:28:06.1458|54|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:28:07.8478|54|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 12:28:58.9014|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 12:28:59.5674|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 12:29:00.6864|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 12:29:09.2449|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 12:29:10.5559|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:29:10.6759|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 12:29:11.0069|62|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 12:29:11.0359|5|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:29:11.1329|15|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:29:11.1609|5|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:29:12.9539|7|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 12:30:45.3509|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 12:30:46.1599|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 12:30:47.2319|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 12:31:00.9813|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 12:31:01.7703|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 12:31:02.8713|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 12:31:12.2208|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 12:31:13.3218|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:31:13.4368|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 12:31:13.7418|48|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 12:31:13.7718|9|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:31:13.8398|51|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:31:13.8638|5|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:31:15.5168|5|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 12:31:43.8694|67|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:31:43.8784|48|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:32:13.8969|67|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:32:13.8969|71|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:32:43.9134|68|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:32:43.9134|68|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:33:13.9279|66|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:33:13.9279|5|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:33:19.8579|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 12:33:20.7090|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 12:33:21.7949|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 12:33:31.1949|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 12:33:32.3249|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:33:32.4420|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 12:33:32.7070|22|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 12:33:32.7419|52|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:33:32.8249|21|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:33:32.8539|56|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:33:34.6769|49|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 12:34:02.8521|84|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:34:02.8521|84|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:34:32.8717|79|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:34:32.8785|86|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:35:02.8887|85|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:35:02.8957|51|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:35:32.9101|48|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:35:32.9101|48|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:36:02.9259|51|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:36:02.9259|51|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:36:32.9466|82|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:36:32.9466|82|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:37:02.9765|19|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:37:02.9765|19|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:37:33.0044|48|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:37:33.0044|48|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:38:03.0198|68|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:38:03.0198|68|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:45:33.0799|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 12:45:33.8620|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 12:45:34.9490|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 12:45:44.1180|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 12:45:45.2630|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:45:45.3680|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 12:45:45.6449|9|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 12:45:45.6600|5|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:45:45.7420|6|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:45:45.7729|40|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:45:47.5960|38|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 12:46:15.7693|10|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:46:15.7693|10|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:46:45.7866|7|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:46:45.8016|68|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:51:39.4821|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 12:51:40.1161|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 12:51:41.1531|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 12:51:50.8025|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 12:51:51.9095|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:51:52.0205|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 12:51:52.2725|51|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 12:51:52.2915|18|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:51:52.3735|17|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:51:52.4025|22|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 12:51:54.2785|50|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 12:52:22.4005|22|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:52:22.4104|77|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:52:52.4159|77|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:52:52.4259|67|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:53:22.4510|66|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:53:22.4580|70|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:53:52.4772|17|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:53:52.5042|17|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:54:22.5199|74|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:54:22.5199|74|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:54:52.5504|77|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:54:52.5504|22|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:55:22.5664|71|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:55:22.5664|71|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:55:52.5904|52|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:55:52.5974|74|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:56:22.6051|87|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:56:22.6141|65|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:56:52.6300|18|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:56:52.6300|18|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:57:22.6462|94|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:57:22.6462|94|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:57:52.6694|104|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:57:52.6764|104|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:58:22.6921|20|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:58:22.6921|53|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:58:52.7232|95|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:58:52.7232|95|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:59:22.7456|52|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:59:22.7536|95|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 12:59:52.7738|18|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 12:59:52.7738|70|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:00:22.7914|49|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:00:22.8024|49|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:00:52.8185|85|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:00:52.8185|85|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:01:22.8516|87|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:01:22.8516|87|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:01:49.5227|88|Info|ServiceControl.Infrastructure.RavenDB.Expiration.ErrorMessageCleaner|No expired error documents found
+2020-02-15 13:01:49.5407|88|Info|ServiceControl.Infrastructure.RavenDB.Expiration.EventLogItemsCleaner|No expired event log documents found
+2020-02-15 13:01:52.8787|102|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:01:52.8787|102|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:02:22.8942|95|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:02:22.8942|95|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:02:52.9191|87|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:02:52.9271|102|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:03:22.9437|89|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:03:22.9437|89|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:03:52.9585|88|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:03:52.9585|88|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:04:22.9800|87|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:04:22.9880|87|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:04:53.0037|88|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:04:53.0037|98|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:05:23.0294|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:05:23.0364|87|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:05:53.0514|70|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:05:53.0514|70|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:06:23.0725|76|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:06:23.0815|76|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:06:53.0981|73|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:06:53.0981|73|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:07:23.1138|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:07:23.1138|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:07:53.1361|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:07:53.1441|73|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:08:23.1505|85|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:08:23.1505|96|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:08:53.1661|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:08:53.1661|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:09:23.1911|80|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:09:23.1911|85|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:09:53.2143|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:09:53.2223|101|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:10:35.0042|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:10:36.0332|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:10:37.3722|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:10:47.8374|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:10:48.9884|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:10:49.0984|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:10:49.3634|44|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:10:49.3974|38|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:10:49.4934|8|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:10:49.5234|9|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:10:51.2484|44|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:11:19.5250|66|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:11:19.5350|71|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:11:48.5513|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:11:49.3673|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:11:50.5523|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:12:00.2624|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:12:01.5424|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:12:01.6564|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:12:01.8994|17|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:12:01.9254|52|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:12:01.9974|22|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:12:02.0274|50|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:12:03.6784|20|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:12:39.7285|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:12:40.6815|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:12:41.8635|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:12:50.1628|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:12:51.4147|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:12:51.5247|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:12:51.7697|17|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:12:51.7887|18|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:12:51.8627|19|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:12:51.9187|52|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:12:53.8507|17|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:13:31.3606|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:13:32.2136|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:13:33.3426|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:13:43.4816|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:13:44.6316|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:13:44.7436|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:13:45.0686|51|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:13:45.0816|48|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:13:45.1626|22|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:13:45.1936|52|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:13:47.0226|19|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:14:15.1953|18|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:14:15.1953|18|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:14:45.2170|56|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:14:45.2237|56|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:15:15.2432|60|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:15:15.2432|60|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:15:45.2622|52|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:15:45.2692|52|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:16:15.2791|84|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:16:15.2861|84|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:16:45.3055|71|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:16:45.3165|71|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:17:15.3338|50|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:17:15.3338|60|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:17:45.3643|60|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:17:45.3643|50|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:18:15.3794|82|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:18:15.3794|82|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:26:22.1694|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:26:23.1084|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:26:24.5705|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:26:35.1665|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:26:36.3506|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:26:36.4665|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:26:36.7865|6|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:26:36.8025|9|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:26:36.8955|5|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:26:36.9255|48|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:26:38.7115|7|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:27:27.8449|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:27:28.7779|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:27:29.7869|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:30:52.6538|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:30:53.3938|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:30:54.4558|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:31:03.2143|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:31:04.3823|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:31:04.4963|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:31:04.7543|18|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:31:04.7853|20|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:31:04.8663|17|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:31:04.9133|52|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:31:06.6003|50|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:31:56.9345|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:31:57.6785|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:31:58.7365|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:32:08.3365|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:32:09.5635|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:32:09.6745|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:32:09.9605|17|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:32:09.9925|21|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:32:10.0605|48|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:32:10.0845|49|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:32:11.8125|56|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:32:40.0831|74|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:32:40.0831|72|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:33:10.1074|17|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:33:10.1144|17|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:54:48.6206|1|Info|ServiceBus.Management.Infrastructure.Settings.Settings|No settings found for error log queue to import, default name will be used
+2020-02-15 13:54:49.3286|1|Info|Particular.ServiceControl.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Version:             4.0.0.0
+Audit Retention Period (optional):  
+Error Retention Period:             10.00:00:00
+Ingest Error Messages:              True
+Forwarding Error Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 13:54:50.3766|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 13:55:00.0106|1|Info|ServiceControl.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 13:55:01.1776|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:55:01.2966|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 13:55:01.5866|22|Info|ServiceControl.Recoverability.RetryDocumentManager|Found 0 orphaned retry batches from previous sessions.
+2020-02-15 13:55:01.6176|19|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:55:01.7016|76|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:55:01.7396|21|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 13:55:03.4726|19|Info|Particular.ServiceControl.Bootstrapper|Api is now accepting requests on http://localhost:49200/api
+2020-02-15 13:55:31.7386|52|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:55:31.7546|75|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:56:01.7771|21|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:56:01.7871|21|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:56:31.8003|74|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:56:31.8003|63|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:57:01.8161|63|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:57:01.8161|63|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:57:31.8421|20|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:57:31.8521|74|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:58:01.8645|79|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:58:01.8645|79|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:58:31.8819|79|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:58:31.8819|79|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:59:01.9040|19|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:59:01.9110|19|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.
+2020-02-15 13:59:31.9310|73|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to forward.
+2020-02-15 13:59:31.9420|19|Info|ServiceControl.Recoverability.RetryProcessor|No batch found to stage.

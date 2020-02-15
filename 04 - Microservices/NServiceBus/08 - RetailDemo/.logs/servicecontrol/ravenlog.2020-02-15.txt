@@ -1,0 +1,19 @@
+2020-02-15 11:20:03.2607|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:20:05.0237|10|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:22:37.2106|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:23:40.5724|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:23:42.4264|17|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:24:12.3142|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:24:14.0482|17|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:35:06.4129|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:35:08.0718|22|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:37:20.2256|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:37:22.3473|5|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:39:34.9913|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:39:37.1403|49|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:41:36.1316|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:41:37.8146|6|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:44:45.0033|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 11:44:46.7223|7|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:49:47.0351|6|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 11:54:47.3512|90|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology

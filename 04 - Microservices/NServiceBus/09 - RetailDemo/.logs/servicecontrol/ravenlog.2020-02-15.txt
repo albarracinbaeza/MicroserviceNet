@@ -1,0 +1,52 @@
+2020-02-15 12:27:49.7218|3|Warn|Raven.Database.Config.MemoryStatistics|Low memory detected, will try to reduce memory usage...
+2020-02-15 12:27:55.8798|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 12:27:57.9558|21|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 12:29:07.8775|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 12:29:09.8239|9|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 12:29:14.3259|3|Warn|Raven.Database.Config.MemoryStatistics|Low memory detected, will try to reduce memory usage...
+2020-02-15 12:29:14.3749|6|Error|Raven.Client.Changes.RemoteChangesClientBase`3|Got error from server connection for http://localhost on id 1/6QAT0WXiv4M/-
+System.AggregateException: Se han producido uno o varios errores. ---> System.IO.EndOfStreamException: Intento de lectura más allá del final de la secuencia.
+   en Raven.Client.Connection.ObservableLineStream.<Start>b__8_0(Task`1 task)
+   en System.Threading.Tasks.Task.Execute()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+---> (Nº de excepción interna 0) System.IO.EndOfStreamException: Intento de lectura más allá del final de la secuencia.
+   en Raven.Client.Connection.ObservableLineStream.<Start>b__8_0(Task`1 task)
+   en System.Threading.Tasks.Task.Execute()<---
+
+2020-02-15 12:31:10.8988|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 12:31:12.7088|6|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 12:33:29.8409|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 12:33:31.6589|22|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 12:45:42.8379|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 12:45:44.5709|6|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 12:51:49.5605|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 12:51:51.2395|22|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 12:51:56.4554|3|Warn|Raven.Database.Config.MemoryStatistics|Low memory detected, will try to reduce memory usage...
+2020-02-15 12:51:56.5834|22|Error|Raven.Client.Changes.RemoteChangesClientBase`3|Got error from server connection for http://localhost on id 1/66xVuTjs3T3/-
+System.AggregateException: Se han producido uno o varios errores. ---> System.IO.EndOfStreamException: Intento de lectura más allá del final de la secuencia.
+   en Raven.Client.Connection.ObservableLineStream.<Start>b__8_0(Task`1 task)
+   en System.Threading.Tasks.Task.Execute()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+---> (Nº de excepción interna 0) System.IO.EndOfStreamException: Intento de lectura más allá del final de la secuencia.
+   en Raven.Client.Connection.ObservableLineStream.<Start>b__8_0(Task`1 task)
+   en System.Threading.Tasks.Task.Execute()<---
+
+2020-02-15 12:56:51.4289|75|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:01:52.3007|102|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:06:53.0532|85|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:10:46.4204|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:10:48.3234|41|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:11:58.5004|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:12:00.8954|22|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:12:48.5880|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:12:50.7057|51|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:13:41.8636|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:13:43.9846|20|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:26:33.3675|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:26:35.6585|10|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:31:01.9393|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:31:03.7043|18|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:32:06.6985|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:32:08.8845|48|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology
+2020-02-15 13:54:58.5926|1|Warn|Raven.Database.Plugins.Builtins.CheckPageFileOnHdd|A page file was found on HDD drive: D while there is 1 SSD drive. This can cause a slowdown, consider moving it to SSD
+2020-02-15 13:55:00.5246|21|Warn|Raven.Client.Connection.Async.AsyncServerClient|Was unable to fetch topology from primary node http://localhost also there is no cached topology

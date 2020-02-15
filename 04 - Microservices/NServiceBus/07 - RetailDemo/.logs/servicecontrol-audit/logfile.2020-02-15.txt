@@ -1,0 +1,75 @@
+2020-02-15 07:12:42.2853|1|Info|ServiceControl.Audit.Infrastructure.Settings.Settings|No settings found for audit log queue to import, default name will be used
+2020-02-15 07:12:44.8883|1|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Audit Version:       4.0.0.0
+Audit Retention Period:             10.00:00:00
+Forwarding Audit Messages:          False
+Database Size:                      0 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 07:12:46.5764|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 07:12:55.6163|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 07:12:59.5079|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 07:12:59.7039|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 07:13:01.9379|56|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|Api is now accepting requests on http://localhost:49201/api
+2020-02-15 07:14:21.4939|1|Info|ServiceControl.Audit.Infrastructure.Settings.Settings|No settings found for audit log queue to import, default name will be used
+2020-02-15 07:14:22.1929|1|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Audit Version:       4.0.0.0
+Audit Retention Period:             10.00:00:00
+Forwarding Audit Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 07:14:23.0539|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 07:14:31.9788|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 07:14:32.7218|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 07:14:32.8329|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 07:14:34.7969|22|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|Api is now accepting requests on http://localhost:49201/api
+2020-02-15 07:16:04.4908|1|Info|ServiceControl.Audit.Infrastructure.Settings.Settings|No settings found for audit log queue to import, default name will be used
+2020-02-15 07:16:05.2008|1|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Audit Version:       4.0.0.0
+Audit Retention Period:             10.00:00:00
+Forwarding Audit Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 07:17:20.3236|1|Info|ServiceControl.Audit.Infrastructure.Settings.Settings|No settings found for audit log queue to import, default name will be used
+2020-02-15 07:17:21.0417|1|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Audit Version:       4.0.0.0
+Audit Retention Period:             10.00:00:00
+Forwarding Audit Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 07:17:21.8527|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 07:17:29.5347|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 07:17:30.2306|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 07:17:30.3506|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 07:17:32.1856|17|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|Api is now accepting requests on http://localhost:49201/api
+2020-02-15 08:06:40.7982|1|Info|ServiceControl.Audit.Infrastructure.Settings.Settings|No settings found for audit log queue to import, default name will be used
+2020-02-15 08:06:41.4363|1|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|
+-------------------------------------------------------------
+ServiceControl Audit Version:       4.0.0.0
+Audit Retention Period:             10.00:00:00
+Forwarding Audit Messages:          False
+Database Size:                      1048576 bytes
+ServiceControl Logging Level:       Info
+RavenDB Logging Level:              Warn
+Selected Transport Customization:   ServiceControl.Transports.Learning.LearningTransportCustomization, ServiceControl.Transports.Learning
+-------------------------------------------------------------
+2020-02-15 08:06:42.4012|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Loading Embedded RavenDB license
+2020-02-15 08:06:49.5482|1|Info|ServiceControl.Audit.Infrastructure.RavenDB.RavenBootstrapper|Index creation started
+2020-02-15 08:06:50.3622|1|Warn|NServiceBus.TransportExtensions|A connection string named 'NServiceBus/Transport' was found. Using named connection strings is discouraged. Instead, load the connection string in your code and pass the value to EndpointConfiguration.UseTransport().ConnectionString(connectionString).
+2020-02-15 08:06:50.4672|1|Info|NServiceBus.LicenseManager|No valid license could be found. Falling back to trial license with start date '2020-02-14'.
+2020-02-15 08:06:52.2932|37|Info|ServiceControl.Audit.Infrastructure.Bootstrapper|Api is now accepting requests on http://localhost:49201/api
