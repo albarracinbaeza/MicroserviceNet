@@ -15,8 +15,8 @@ Descragar, descomprimir, copiar a la raiz y agregar el bin al path de windows
 SERVICES DISCOVERY
 ==================
 
-Generar proyecto de Configserver
-================================
+Generar proyecto de Discovery service
+=====================================
 Ctrl+Shift+p
 Spring Initializr
 Lenguaje : java

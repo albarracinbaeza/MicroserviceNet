@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Steeltoe.Discovery.Client;
 using Steeltoe.Extensions.Configuration.ConfigServer;
 
 namespace Microservices.ConfigServer.Client
@@ -19,14 +20,14 @@ namespace Microservices.ConfigServer.Client
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .ConfigureAppConfiguration((webHostBuilderContext, configurationBuilder) => {
+             .ConfigureAppConfiguration((webHostBuilderContext, configurationBuilder) => {
 
-                    var hostingEnvironment = webHostBuilderContext.HostingEnvironment;
-                    configurationBuilder.AddConfigServer(hostingEnvironment.EnvironmentName);
-                })
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
+                 var hostingEnvironment = webHostBuilderContext.HostingEnvironment;
+                 configurationBuilder.AddConfigServer(hostingEnvironment.EnvironmentName);                 
+             })               
+            .ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup<Startup>();
+            });
     }
 }
