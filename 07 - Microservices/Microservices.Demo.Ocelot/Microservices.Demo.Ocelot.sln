@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Demo.Ocelot.Product.API", "Microservices.Demo.Ocelot.Product.API\Microservices.Demo.Ocelot.Product.API.csproj", "{0E76D312-8BD3-45E7-8C38-55CDC92500E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Demo.Ocelot.Paymet.API", "Microservices.Demo.Ocelot.Paymet.API\Microservices.Demo.Ocelot.Paymet.API.csproj", "{4A2114B6-BAAA-4668-8CC3-96BDD60A4A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices.Demo.Ocelot.ApiGateway", "Microservices.Demo.Ocelot.ApiGateway\Microservices.Demo.Ocelot.ApiGateway.csproj", "{91751C70-4695-41DE-84F9-F84FBB240B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E76D312-8BD3-45E7-8C38-55CDC92500E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E76D312-8BD3-45E7-8C38-55CDC92500E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E76D312-8BD3-45E7-8C38-55CDC92500E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E76D312-8BD3-45E7-8C38-55CDC92500E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2114B6-BAAA-4668-8CC3-96BDD60A4A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2114B6-BAAA-4668-8CC3-96BDD60A4A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2114B6-BAAA-4668-8CC3-96BDD60A4A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2114B6-BAAA-4668-8CC3-96BDD60A4A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91751C70-4695-41DE-84F9-F84FBB240B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91751C70-4695-41DE-84F9-F84FBB240B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91751C70-4695-41DE-84F9-F84FBB240B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91751C70-4695-41DE-84F9-F84FBB240B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D70061D1-CD22-41B7-92E6-B9D61996D336}
+	EndGlobalSection
+EndGlobal
